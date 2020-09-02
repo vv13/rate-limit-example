@@ -1,0 +1,18 @@
+{
+  "name": "limitexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.17.3",
+    "koa": "^2.13.0",
+    "koa-ratelimit": "^4.2.1"
+  }
+}
